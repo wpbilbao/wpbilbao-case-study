@@ -20,9 +20,7 @@ Also lets us to send emails to all WordPressers in the Meetup Group, or even fil
 
 It’s your Full Meetup Group Control Panel and your best friend for this “mission”.
 
-```js
-You can join the WordPress Meetup Group to the WordPress ["Meetup.com Chapter Program"](https://make.wordpress.org/community/meetups/)
-```
+You can add your WordPress Meetup Group to the WordPress ["Meetup.com Chapter Program"](https://make.wordpress.org/community/meetups/)
 
 ### Slack
 
