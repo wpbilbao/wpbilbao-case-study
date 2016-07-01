@@ -23,6 +23,7 @@ In each category we try to combine direct WordPress stuff with other very useful
 <img src="fig1.jpg" width="500">
 
 **Format:** Presentation ( 1h 30' ) + Q&A + Networking
+
 **Attendees:** New WordPress users, bloggers, companies website responsable, journalists, etc.
 
 ### Section 1
@@ -40,6 +41,7 @@ SEO, Digital Marketing, Podcast, etc.
 <img src="fig2.jpg" width="500">
 
 **Format:** Presentation/Workshop ( 1h 30' ) + Q&A + Networking
+
 **Attendees:** New developers, WordPress developers, other programming language users, other CMS developers, etc.
 
 ### Section 1
@@ -59,6 +61,7 @@ With this, we can meet a lot of people, other developers and professionals, and 
 <img src="fig3.jpg" width="500">
 
 **Format:** Open Discussion / Q&A + Networking
+
 **Attendees:** freelance, startups, companies, people that wants to be freelance, etc.
 
 ### Section 1
