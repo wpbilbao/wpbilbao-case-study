@@ -8,7 +8,7 @@ Case Study where we explain how the WordPress Bilbao Community is organized.
 * ["Chapter 3 - Meetups Organization"](Chapter%203%20-%20Meetups%20Organization/ch3.md)
 * ["Chapter 4 - Networking"](Chapter%204%20-%20Networking/ch4.md)
 * ["Chapter 5 - Volunteer Roles"](Chapter%205%20-%20Volunteer%20Roles/ch5.md)
-* ["Chapter 6 - Members Profile"](Chapter%206%20-6%20Members%20Profile/ch6.md)
+* ["Chapter 6 - Members Profile"](Chapter%206%20-%20Members%20Profile/ch6.md)
 
 
 ## End
