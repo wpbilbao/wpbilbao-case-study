@@ -4,7 +4,7 @@
 
 ## The Intention of this Case Study
 
-My intention is to provide my/our experience in organizing a local meetup group of WordPress. I expect that these information helps you to take ideas for your local meetup and make it work.
+My intention is to provide my/our experience in organizing a local WordPress meetup. I hope that this information helps you to take ideas for your local meetup and make it work.
 
 ## My situation with WordPress
 

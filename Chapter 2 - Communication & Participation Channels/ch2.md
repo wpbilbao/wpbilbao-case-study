@@ -2,7 +2,7 @@
 
 # Chapter 2 - Communication & Participation Channels
 
-We have different kind of channels to participate and communicate with each other in the community.
+We have different kinds of channels to participate and communicate with each other in the community.
 
 Since the start of the community, we wanted to let all people participate in the organization and decisions. So we need to have some way for this to make it possible.
 
@@ -16,7 +16,7 @@ We use this platform to control the Reservations to all the Meetups that we orga
 
 You can configure next meetups, view and limit the attendees reservations, ask questions to those that make a reservation in reference that meetup, and lot more things.
 
-Also lets us to send emails to all WordPressers in the Meetup Group, or even filter to all next attendees or other filters.
+It also lets us to send emails to all WordPressers in the Meetup Group, or even filter to all next attendees or other filters.
 
 It’s your Full Meetup Group Control Panel and your best friend for this “mission”.
 
